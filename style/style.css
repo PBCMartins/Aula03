@@ -1,0 +1,18 @@
+p {
+    background-color: #ffd000;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+td {
+    border: 1px solid rgb(160,160,160);
+    padding: 8px 10px;
+}
+
+/* para class*/
+.comum_1{
+    color: orange;
+    text-align: left;
+}
