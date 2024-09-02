@@ -12,7 +12,7 @@
     color: rgb(241, 75, 29);
     font-weight: bolder;
     background-color: #f1e450;
-    text-align: justify;
+    text-align: center;
 }
 .summer-text{
     
@@ -27,5 +27,24 @@ body{
 .winter{
     margin: 0 auto;
     position: relative;
+}
+
+.inverno{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(243, 244, 245);
+    font-weight: bolder;
+    background-color: #2080f5;
+    text-align: center;
+}
+
+.spring{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgb(45, 38, 45);
+    font-weight: bolder;
+    background-color: #e95990;
+    text-align: center;
+
 }
 
