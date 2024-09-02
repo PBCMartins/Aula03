@@ -9,15 +9,23 @@
 .summer{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    color: rgb(241, 192, 55);
-    text-align: center; 
+    color: rgb(241, 75, 29);
     font-weight: bolder;
+    background-color: #f1e450;
+    text-align: justify;
 }
-
+.summer-text{
+    
+    text-align: justify;
+}
 body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 
-        background-image: url(https://st4.depositphotos.com/1194063/20120/i/450/depositphotos_201203326-stock-photo-attractive-pineapples-stylish-sunglasses-sand.jpg);
-        background-repeat: no-repeat;
-        opacity: 0.5;
-    }
+}
+.winter{
+    margin: 0 auto;
+    position: relative;
+}
 
